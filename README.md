@@ -7,6 +7,8 @@ This repository contains SQL tables designed to organize and analyze a dataset r
 ## **Overview**
 The dataset contains information about respondents from various economies, including their financial behaviors, account ownership, and usage of digital financial services. The SQL tables are normalized to reduce redundancy and improve data integrity. The tables are designed to answer questions related to financial inclusion, digital payments, savings, borrowing, and more.
 
+The dataset is sourced from the **World Bank Microdata Library**: [https://microdata.worldbank.org](https://microdata.worldbank.org).
+
 ---
 
 ## **Visualization Use Cases**
@@ -78,3 +80,7 @@ Contributions are welcome! If you have suggestions for improving the schema or a
 
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## **Data Source**
+The dataset used in this project is sourced from the **World Bank Microdata Library**:  
+[https://microdata.worldbank.org](https://microdata.worldbank.org)
